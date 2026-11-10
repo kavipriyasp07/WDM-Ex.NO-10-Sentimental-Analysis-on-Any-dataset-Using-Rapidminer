@@ -1,5 +1,5 @@
 # WDM-Ex.NO-10-Sentimental-Analysis-on-Any-dataset-Using-Rapidminer
-## NAME: Madhu Mitha V
+## NAME: Kavipriya SP
 ## DATE:
 **AIM:**<br>
 To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer<br>
